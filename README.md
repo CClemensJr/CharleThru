@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to the CharleThru app!
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The purpose of this app is to assist job seekers with keeping track of the jobs
+they have applied for as well as be served with reminders to follow up with
+employers after an application has been submitted. Diligent use of this app will
+ensure that each employer is contacted multiple times, increasing the odds of
+getting an interview
